@@ -1,0 +1,15 @@
+Partlist exported from /Users/josephgalea/Documents/eagle/arduino leonardo/leonardo.sch at 13/05/2016 19:44
+
+Qty Value         Device        Package                 Parts                           Description                                             MF MPN           OC_FARNELL OC_NEWARK PACKAGE SUPPLIER
+1                 LED1206       1206                    LED                                                                                                                                           
+1                 MA05-1        MA05-1                  SV1                             PIN HEADER                                                               unknown    unknown                   
+2                 MA08-1        MA08-1                  SV2, SV3                        PIN HEADER                                                                                                    
+8   0.1uF         CAP-US1206FAB C1206FAB                C1, C2, C3, C4, C5, C8, C9, C10                                                                                                               
+2   18pF          CAP-US1206FAB C1206FAB                C6, C7                                                                                                                                        
+2   22ohm         RES-US1206FAB R1206FAB                R1, R2                          Resistor (US Symbol)                                                                                          
+1   499           RESISTOR1206  1206                    R4                                                                                                                                            
+1   680           RES-US1206FAB R1206FAB                R6                              Resistor (US Symbol)                                                                                          
+1   ATMEGA32U4-AU ATMEGA32U4-AU QFP80P1200X1200X120-44N U1                              8-bit Microcontroller with ISP Flash and USB Controller    ATMEGA32U4-AU 1748525    26R5633   TQFP-44 Atmel   
+1   AVRISPSMD     AVRISPSMD     2X03SMD                 U$2                                                                                                                                           
+1   CRYSTAL       CRYSTAL       2-SMD-5X3MM             U$3                                                                                                                                           
+1   USB_MINIB     USB_MINIB     USB_MINIB               U$1                                                                                                                                           
